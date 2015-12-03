@@ -1,2 +1,4 @@
-# ft
-nodejs api
+Nodejs
+Expressjs
+Json Web Token
+Mongoose
